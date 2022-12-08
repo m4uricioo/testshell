@@ -98,3 +98,10 @@ What our shell can handle:
 
 
 ![flow-char shell](https://user-images.githubusercontent.com/113644952/206484364-ea79ef00-57ec-4f5b-8b9d-8f004daefbfa.PNG)
+
+
+__________________________________________________________________________________________________________________________
+
+You can see more information in the manual page 
+
+man ./man_1_simple_shell
