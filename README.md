@@ -34,6 +34,20 @@ No more than 5 functions per file
 
 All your header files should be include guarde
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 _________________________________________________________________________________________________________________________________
  What its a Shell?
  A shell is a text-based terminal, used for manipulating programs and files. Shell scripts typically manage program execution.
@@ -80,3 +94,7 @@ What our shell can handle:
 -Handles interactive mode
 
 -Handles non-interactive mode
+
+
+
+![flow-char shell](https://user-images.githubusercontent.com/113644952/206484364-ea79ef00-57ec-4f5b-8b9d-8f004daefbfa.PNG)
